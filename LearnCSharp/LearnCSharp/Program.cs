@@ -1,4 +1,5 @@
 ﻿using LearnCSharp.Study;
+using LearnCSharp.Study.Delegate__Func__Lambda;
 
 namespace LearnCSharp
 {
@@ -6,7 +7,7 @@ namespace LearnCSharp
     {
         static void Main(string[] args)
         {
-          HelloWorld.main(null);
+          LearnDelegate.main(null);
         }
     }
 }
