@@ -7,7 +7,7 @@ namespace LearnCSharp
     {
         static void Main(string[] args)
         {
-          LearnDelegate.main(null);
+          LearnLambdaExpression.main(null);
         }
     }
 }
