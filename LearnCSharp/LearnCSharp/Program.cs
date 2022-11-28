@@ -1,4 +1,5 @@
 ﻿using LearnCSharp.Study;
+using LearnCSharp.Study.Delegate;
 using LearnCSharp.Study.Delegate__Func__Lambda;
 
 namespace LearnCSharp
@@ -7,7 +8,7 @@ namespace LearnCSharp
     {
         static void Main(string[] args)
         {
-          LearnLambdaExpression.main(null);
+          LearnFuncActionPredicate.main(null);
         }
     }
 }
