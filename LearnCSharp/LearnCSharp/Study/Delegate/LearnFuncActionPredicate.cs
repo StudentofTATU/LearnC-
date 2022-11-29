@@ -1,4 +1,9 @@
-﻿namespace LearnCSharp.Study.Delegate
+﻿//=================================
+// Copyright (c) Coalition of Good-Hearted Engineers
+// Free to use to bring order in your workplace
+//===============================
+
+namespace LearnCSharp.Study.Delegate
 {
     public class LearnFuncActionPredicate
     {
