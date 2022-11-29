@@ -1,4 +1,9 @@
-﻿namespace LearnCSharp.Study.Delegate__Func__Lambda
+﻿//=================================
+// Copyright (c) Coalition of Good-Hearted Engineers
+// Free to use to bring order in your workplace
+//===============================
+
+namespace LearnCSharp.Study.Delegate__Func__Lambda
 { // What is delegate!
   //  A delegate is an object which refers to a method or you can say it is a reference type variable
   //  that can hold a reference to the methods. Delegates in C# are similar to the function pointer in C/C++.
