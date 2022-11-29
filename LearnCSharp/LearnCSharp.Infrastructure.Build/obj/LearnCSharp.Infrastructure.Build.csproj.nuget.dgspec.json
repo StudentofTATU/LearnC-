@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\learn project\\LearnCSharp\\LearnCSharp\\LearnCSharp\\LearnCSharp\\LearnCSharp.csproj": {}
+    "C:\\Users\\User\\Desktop\\learn project\\LearnCSharp\\LearnCSharp\\LearnCSharp\\LearnCSharp.Infrastructure.Build\\LearnCSharp.Infrastructure.Build.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\learn project\\LearnCSharp\\LearnCSharp\\LearnCSharp\\LearnCSharp\\LearnCSharp.csproj": {
+    "C:\\Users\\User\\Desktop\\learn project\\LearnCSharp\\LearnCSharp\\LearnCSharp\\LearnCSharp.Infrastructure.Build\\LearnCSharp.Infrastructure.Build.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\learn project\\LearnCSharp\\LearnCSharp\\LearnCSharp\\LearnCSharp\\LearnCSharp.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\learn project\\LearnCSharp\\LearnCSharp\\LearnCSharp\\LearnCSharp.Infrastructure.Build\\LearnCSharp.Infrastructure.Build.csproj",
         "projectName": "LearnCSharp.Infrastructure.Build",
-        "projectPath": "C:\\Users\\User\\Desktop\\learn project\\LearnCSharp\\LearnCSharp\\LearnCSharp\\LearnCSharp\\LearnCSharp.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\learn project\\LearnCSharp\\LearnCSharp\\LearnCSharp\\LearnCSharp.Infrastructure.Build\\LearnCSharp.Infrastructure.Build.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\User\\Desktop\\learn project\\LearnCSharp\\LearnCSharp\\LearnCSharp\\LearnCSharp.Infrastructure.Build\\obj\\",
         "projectStyle": "PackageReference",
@@ -40,9 +40,9 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
-            "System.Runtime": {
+            "ADotNet": {
               "target": "Package",
-              "version": "[4.3.1, )"
+              "version": "[2.1.2, )"
             }
           },
           "imports": [
