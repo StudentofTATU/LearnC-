@@ -1,6 +1,7 @@
 ﻿using LearnCSharp.Study;
 using LearnCSharp.Study.Delegate;
 using LearnCSharp.Study.Delegate__Func__Lambda;
+using LearnCSharp.Study.Exceptions;
 
 namespace LearnCSharp
 {
@@ -8,7 +9,7 @@ namespace LearnCSharp
     {
         static void Main(string[] args)
         {
-          LearnFuncActionPredicate.main(null);
+          LearnExceptionHandling.main(null);
         }
     }
 }
