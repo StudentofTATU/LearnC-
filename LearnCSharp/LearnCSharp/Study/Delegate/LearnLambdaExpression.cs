@@ -21,7 +21,9 @@
             hello("Alisher");
             hello2("Botir");
             hello3("Jamol");
+            // new codes
+            // new codes
         }
-       
+
     }
 }
