@@ -21,6 +21,7 @@
             hello("Alisher");
             hello2("Botir");
             hello3("Jamol");
+            // new codes  vuuuu
             // new codes
             // new codes
         }
