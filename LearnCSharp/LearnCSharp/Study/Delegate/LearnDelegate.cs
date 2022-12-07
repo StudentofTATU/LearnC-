@@ -3,6 +3,8 @@
 // Free to use to bring order in your workplace
 //===============================
 
+using LearnCSharp.Study.Basics;
+
 namespace LearnCSharp.Study.Delegate__Func__Lambda
 { // What is delegate!
   //  A delegate is an object which refers to a method or you can say it is a reference type variable
@@ -19,6 +21,7 @@ namespace LearnCSharp.Study.Delegate__Func__Lambda
             // you see it is difficult. To solve this problem we can use delegate key.
             // calculate.ShowOddNumberUnderNDelegate(25, print);
             calculate.ShowOddNumberUnderNDelegate(50, i => Console.WriteLine(i));
+           
         }
 
         private static void Print(int i)

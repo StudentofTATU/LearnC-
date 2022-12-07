@@ -7,8 +7,7 @@ namespace LearnCSharp
     internal class Program
     {
         static void Main(string[] args)
-        {
-          LearnFuncActionPredicate.main(null);
+        { 
         }
     }
 }

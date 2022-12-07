@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace LearnCSharp.Study.Basics
 {
-    public class HelloWorld
+     class HelloWorld
     {
         public static void main(string[] args)
         {
