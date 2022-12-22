@@ -1,0 +1,10 @@
+﻿namespace LearnCSharp.Study
+{
+    internal class LearnGit
+    {
+        // 1-commit
+        // 2-commit
+        // 3-commit   let say wrong commit
+        // 3-commit   let say second wrong commit
+    }
+}
